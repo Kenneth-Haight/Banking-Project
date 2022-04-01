@@ -7,8 +7,8 @@
 <?php
             
     $dsn = 'mysql:localhost=localhost;dbname=haightk1_ProjectDB';
-	$username = 'haightk1_administrator';
-	$password = 'NYE99xyzCPA';
+	$username = '...';
+	$password = '...';
 	
 	$email='demo@gmail.com';
 	$searchpassword='DEMO';
