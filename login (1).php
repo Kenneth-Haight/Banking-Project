@@ -24,8 +24,8 @@
 <?php
 if(isset($_POST['username']) || isset($_POST['password'])){
     $dsn = 'mysql:host=localhost;dbname=haightk1_hbdb';
-	$username = 'haightk1_administrator';
-	$password = 'NYE99xyzCPA';
+	$username = '...';
+	$password = '...';
 
   $db = new PDO($dsn, $username, $password);
 
