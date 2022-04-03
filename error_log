@@ -1403,3 +1403,1952 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 03:56:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 03:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 04:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 04:15:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 04:19:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 04:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 04:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 04:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 04:26:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 09:21:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 09:21:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 09:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 09:50:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 11:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 11:59:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 11:59:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 11:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 12:28:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 12:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 46
+[01-Apr-2022 16:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:51:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:51:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 46
+[01-Apr-2022 16:55:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:55:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 16:56:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 16:56:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 16:56:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 16:56:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 16:56:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 16:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 16:56:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 16:56:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 16:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:01:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:04:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:04:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 17:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 17:05:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 17:05:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 51
+[01-Apr-2022 17:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[01-Apr-2022 17:06:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:06:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 50
+[01-Apr-2022 17:09:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:09:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:09:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:10:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:10:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:11:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[01-Apr-2022 17:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:13:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:14:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:14:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:15:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:15:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[01-Apr-2022 17:18:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 17:18:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 17:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 77
+[01-Apr-2022 17:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 77
+[01-Apr-2022 17:26:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 77
+[01-Apr-2022 17:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 17:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 17:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 77
+[01-Apr-2022 17:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 79
+[01-Apr-2022 17:27:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 17:27:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 17:27:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 79
+[01-Apr-2022 17:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 79
+[01-Apr-2022 17:30:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 66
+[01-Apr-2022 17:30:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 66
+[01-Apr-2022 17:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::count() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 67
+[01-Apr-2022 17:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::count() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 67
+[01-Apr-2022 17:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function count() on array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 68
+[01-Apr-2022 17:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function count() on array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 68
+[01-Apr-2022 17:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function count() on array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 68
+[01-Apr-2022 17:33:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function count() on array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 68
+[01-Apr-2022 17:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function count() on array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 68
+[01-Apr-2022 17:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function count() on array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 68
+[01-Apr-2022 17:33:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 79
+[01-Apr-2022 17:33:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::countRow() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 67
+[01-Apr-2022 17:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 79
+[01-Apr-2022 17:34:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 79
+[01-Apr-2022 17:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 79
+[01-Apr-2022 17:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 79
+[01-Apr-2022 17:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 24
+[01-Apr-2022 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 92
+[01-Apr-2022 17:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 92
+[01-Apr-2022 17:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 92
+[01-Apr-2022 17:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 92
+[01-Apr-2022 17:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 37
+[01-Apr-2022 17:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 39
+[01-Apr-2022 17:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 39
+[01-Apr-2022 18:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 37
+[01-Apr-2022 18:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 25
+[01-Apr-2022 18:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[01-Apr-2022 18:38:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[01-Apr-2022 18:38:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[01-Apr-2022 18:38:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[01-Apr-2022 18:41:34 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 22
+[01-Apr-2022 18:41:34 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 22
+[01-Apr-2022 18:41:34 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 22
+[01-Apr-2022 18:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 28
+[01-Apr-2022 18:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 28
+[01-Apr-2022 18:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 28
+[01-Apr-2022 18:42:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 19
+[01-Apr-2022 18:42:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 19
+[01-Apr-2022 18:42:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 19
+[01-Apr-2022 18:42:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 25
+[01-Apr-2022 18:42:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[01-Apr-2022 18:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:46:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[01-Apr-2022 18:47:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 23
+[01-Apr-2022 18:47:43 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 23
+[01-Apr-2022 18:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[01-Apr-2022 18:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 18:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 18:49:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:49:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 18:49:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 18:52:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 18:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 18:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 18:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 18:59:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 18:59:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 19:08:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 19:08:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 19:14:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 30
+[01-Apr-2022 19:56:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 19:56:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 19:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 19:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[01-Apr-2022 19:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 20:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 20:22:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[01-Apr-2022 20:22:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 20:22:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[01-Apr-2022 22:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[02-Apr-2022 00:14:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 14:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 14:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 14:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 25
+[03-Apr-2022 14:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:18:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 24
+[03-Apr-2022 14:22:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 14:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 14:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:23:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:23:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 29
+[03-Apr-2022 14:24:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 31
+[03-Apr-2022 14:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 31
+[03-Apr-2022 14:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 31
+[03-Apr-2022 14:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 31
+[03-Apr-2022 14:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 26
+[03-Apr-2022 14:24:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:24:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:25:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 50
+[03-Apr-2022 14:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 14:25:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 14:25:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 27
+[03-Apr-2022 14:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 31
+[03-Apr-2022 14:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 31
+[03-Apr-2022 14:26:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 31
+[03-Apr-2022 15:03:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:22:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 15:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 54
+[03-Apr-2022 15:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/home.php on line 31
+[03-Apr-2022 15:26:53 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:26:53 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:28:47 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:28:47 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:30:23 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:30:23 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:30:29 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:30:29 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:30:50 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/index.php on line 22
+[03-Apr-2022 15:30:50 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/index.php on line 22
+[03-Apr-2022 15:30:51 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:30:51 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:31:38 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:31:38 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:31:40 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:31:40 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:31:41 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:31:41 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 15:32:38 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:32:38 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:32:44 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:32:44 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:32:50 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:32:50 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:34:13 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:34:13 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 15:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:35:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:36:10 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register.php on line 25
+[03-Apr-2022 15:36:10 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register.php on line 25
+[03-Apr-2022 15:37:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 15:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:38:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:39:51 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 45
+[03-Apr-2022 15:39:54 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 45
+[03-Apr-2022 15:40:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:40:51 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 45
+[03-Apr-2022 15:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 52
+[03-Apr-2022 15:48:55 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:48:55 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:49:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 15:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 15:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[03-Apr-2022 15:49:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[03-Apr-2022 15:49:34 UTC] PHP Warning:  include(shapes.php): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:49:34 UTC] PHP Warning:  include(): Failed opening 'shapes.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login.php on line 25
+[03-Apr-2022 15:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[03-Apr-2022 15:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[03-Apr-2022 15:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[03-Apr-2022 15:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[03-Apr-2022 15:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[03-Apr-2022 15:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 53
+[03-Apr-2022 15:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 56
+[03-Apr-2022 15:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 56
+[03-Apr-2022 15:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 56
+[03-Apr-2022 15:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 56
+[03-Apr-2022 16:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 16:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 16:24:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 56
+[03-Apr-2022 16:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 56
+[03-Apr-2022 16:24:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 56
+[03-Apr-2022 16:36:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 16:36:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 70
+[03-Apr-2022 16:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 56
+[03-Apr-2022 16:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 16:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 16:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 57
+[03-Apr-2022 16:43:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 16:43:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 16:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 16:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 16:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 16:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 16:47:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 16:49:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 30
+[03-Apr-2022 16:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 27
+[03-Apr-2022 16:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 27
+[03-Apr-2022 16:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 27
+[03-Apr-2022 16:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 27
+[03-Apr-2022 16:54:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 16:54:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 16:55:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 25
+[03-Apr-2022 16:56:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 25
+[03-Apr-2022 16:57:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 31
+[03-Apr-2022 16:58:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 32
+[03-Apr-2022 16:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 33
+[03-Apr-2022 16:58:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 33
+[03-Apr-2022 16:58:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 33
+[03-Apr-2022 16:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 33
+[03-Apr-2022 16:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 33
+[03-Apr-2022 16:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 33
+[03-Apr-2022 16:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 33
+[03-Apr-2022 16:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 33
+[03-Apr-2022 17:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 36
+[03-Apr-2022 17:06:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 36
+[03-Apr-2022 17:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 39
+[03-Apr-2022 17:07:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 38
+[03-Apr-2022 17:08:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 17:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 17:08:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 38
+[03-Apr-2022 17:09:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 71
+[03-Apr-2022 17:09:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 71
+[03-Apr-2022 17:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/deposit.php on line 71
+[03-Apr-2022 17:09:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 38
+[03-Apr-2022 17:11:13 UTC] PHP Warning:  include(&lt;script&gt;window.location.href = account.php;&lt;/script&gt;): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 18
+[03-Apr-2022 17:11:13 UTC] PHP Warning:  include(): Failed opening '&lt;script&gt;window.location.href = account.php;&lt;/script&gt;' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 18
+[03-Apr-2022 17:11:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 23
+[03-Apr-2022 17:11:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 42
+[03-Apr-2022 17:12:15 UTC] PHP Warning:  include(&lt;script&gt;window.location.href = account.php;&lt;/script&gt;): failed to open stream: No such file or directory in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 18
+[03-Apr-2022 17:12:15 UTC] PHP Warning:  include(): Failed opening '&lt;script&gt;window.location.href = account.php;&lt;/script&gt;' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 18
+[03-Apr-2022 17:12:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 23
+[03-Apr-2022 17:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 42
+[03-Apr-2022 17:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 42
+[03-Apr-2022 17:32:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 17:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/withdraw.php on line 71
+[03-Apr-2022 17:33:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:35:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 53
+[03-Apr-2022 17:35:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:35:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 42
+[03-Apr-2022 17:35:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:35:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 53
+[03-Apr-2022 17:35:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 53
+[03-Apr-2022 17:36:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:36:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:36:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:36:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:36:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 51
+[03-Apr-2022 17:36:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:38:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 42
+[03-Apr-2022 17:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 57
+[03-Apr-2022 17:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 57
+[03-Apr-2022 17:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 42
+[03-Apr-2022 17:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 56
+[03-Apr-2022 17:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 42
+[03-Apr-2022 17:40:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 58
+[03-Apr-2022 17:43:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:43:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 66
+[03-Apr-2022 17:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 66
+[03-Apr-2022 17:43:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:43:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 66
+[03-Apr-2022 17:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:44:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 66
+[03-Apr-2022 17:44:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 66
+[03-Apr-2022 17:45:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 66
+[03-Apr-2022 17:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 71
+[03-Apr-2022 17:45:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:46:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/account.php on line 42
+[03-Apr-2022 17:47:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 58
+[03-Apr-2022 17:47:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 58
+[03-Apr-2022 17:47:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 71
+[03-Apr-2022 17:47:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 71
+[03-Apr-2022 17:47:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/login_user.php on line 63
+[03-Apr-2022 17:51:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 52
+[03-Apr-2022 17:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 73
+[03-Apr-2022 17:52:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 58
+[03-Apr-2022 17:52:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/haightk1/public_html/SOFTWARE ENGINEERING II/register_user.php on line 58
+[03-Apr-2022 17:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 73
+[03-Apr-2022 17:53:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/transfer.php on line 73
+[03-Apr-2022 17:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/staff_login_script.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/staff_login_script.php on line 34
+[03-Apr-2022 17:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/staff_login_script.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/staff_login_script.php on line 34
+[03-Apr-2022 17:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/haightk1/public_html/SOFTWARE ENGINEERING II/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/SOFTWARE ENGINEERING II/staff_login_script.php on line 35
+[03-Apr-2022 17:59:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/haightk1/public_html/se2/register_user.php on line 58
+[03-Apr-2022 18:00:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/haightk1/public_html/se2/register_user.php on line 58
+[03-Apr-2022 18:01:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 63
+[03-Apr-2022 18:01:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:01:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 73
+[03-Apr-2022 18:01:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 73
+[03-Apr-2022 18:01:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 73
+[03-Apr-2022 18:02:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 73
+[03-Apr-2022 18:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 73
+[03-Apr-2022 18:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 73
+[03-Apr-2022 18:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 63
+[03-Apr-2022 18:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 98
+[03-Apr-2022 18:03:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 98
+[03-Apr-2022 18:03:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 63
+[03-Apr-2022 18:03:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 98
+[03-Apr-2022 18:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 98
+[03-Apr-2022 18:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 72
+[03-Apr-2022 18:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 63
+[03-Apr-2022 18:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 72
+[03-Apr-2022 18:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 72
+[03-Apr-2022 18:05:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 74
+[03-Apr-2022 18:05:38 UTC] PHP Warning:  A non-numeric value encountered in /home/haightk1/public_html/se2/transfer.php on line 43
+[03-Apr-2022 18:05:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 74
+[03-Apr-2022 18:05:39 UTC] PHP Warning:  A non-numeric value encountered in /home/haightk1/public_html/se2/transfer.php on line 43
+[03-Apr-2022 18:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 74
+[03-Apr-2022 18:05:39 UTC] PHP Warning:  A non-numeric value encountered in /home/haightk1/public_html/se2/transfer.php on line 43
+[03-Apr-2022 18:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 74
+[03-Apr-2022 18:05:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 74
+[03-Apr-2022 18:05:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 74
+[03-Apr-2022 18:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 70
+[03-Apr-2022 18:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/staff_login_script.php on line 35
+[03-Apr-2022 18:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/staff_login_script.php on line 35
+[03-Apr-2022 18:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/staff_login_script.php on line 35
+[03-Apr-2022 18:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/staff_login_script.php on line 35
+[03-Apr-2022 18:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/staff_login_script.php on line 35
+[03-Apr-2022 18:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/staff_login_script.php on line 35
+[03-Apr-2022 18:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/staff_login_script.php on line 35
+[03-Apr-2022 18:09:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/staff_login_script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/staff_login_script.php on line 35
+[03-Apr-2022 18:09:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:10:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 101
+[03-Apr-2022 18:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 101
+[03-Apr-2022 18:11:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 63
+[03-Apr-2022 18:11:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:12:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/transfer.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/transfer.php on line 101
+[03-Apr-2022 18:18:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 63
+[03-Apr-2022 18:21:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:22:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:23:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 63
+[03-Apr-2022 18:23:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 54
+[03-Apr-2022 18:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 54
+[03-Apr-2022 18:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:23:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 42
+[03-Apr-2022 18:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 45
+[03-Apr-2022 18:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 45
+[03-Apr-2022 18:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 54
+[03-Apr-2022 18:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 45
+[03-Apr-2022 18:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/deposit.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/deposit.php on line 71
+[03-Apr-2022 18:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 54
+[03-Apr-2022 18:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 48
+[03-Apr-2022 18:25:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 48
+[03-Apr-2022 18:27:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 45
+[03-Apr-2022 18:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/login_user.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/login_user.php on line 54
+[03-Apr-2022 18:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on null in /home/haightk1/public_html/se2/account.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/account.php on line 45
+[03-Apr-2022 18:31:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/haightk1/public_html/se2/register_user.php on line 61
+[03-Apr-2022 18:32:15 UTC] PHP Parse error:  syntax error, unexpected 'login' (T_STRING), expecting ',' or ';' in /home/haightk1/public_html/se2/register_user.php on line 60
+[03-Apr-2022 18:32:18 UTC] PHP Parse error:  syntax error, unexpected 'login' (T_STRING), expecting ',' or ';' in /home/haightk1/public_html/se2/register_user.php on line 60
+[03-Apr-2022 18:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/register_user.php on line 52
+[03-Apr-2022 18:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/register_user.php on line 52
+[03-Apr-2022 18:32:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/register_user.php on line 52
+[03-Apr-2022 18:32:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/register_user.php on line 52
+[03-Apr-2022 18:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/haightk1/public_html/se2/register_user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/haightk1/public_html/se2/register_user.php on line 52
