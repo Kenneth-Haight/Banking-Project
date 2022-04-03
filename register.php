@@ -26,7 +26,7 @@
 
     <div class="container text-center mt-5">
       <header>
-        <h1 class="display-6 fw-bold">haight banking</h1>
+        <h1 class="display-6 fw-bold"><a href="index.php" style="text-decoration: none; color: initial;">haight banking</a></h1>
         <p class="text-muted">easy, simple, secure banking</p>
       </header>
       <div class="d-flex mt-1">
@@ -37,7 +37,7 @@
           <div class="row mt-3">
             <!-- First name   -->
             <div class="col">
-              <input class="form-control" type="text" name="first-name" placeholder="First name" required>
+              <input class="form-control" type="text" name="first-name" maxlength="20" placeholder="First name" required>
             </div>
             <!-- Last name -->
             <div class="col">

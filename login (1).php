@@ -1,3 +1,7 @@
+<?php
+    session_start();
+?>
+
 <!doctype html>
 <html>
   <head>
@@ -30,6 +34,14 @@
       </header>
       <div class="d-flex mt-1">
         <form class="px-4 mx-auto" action="login_user.php" method="post">
+                    <?php 
+            if (isset($_SESSION["user_just_registered"])) {
+                echo '<div class="alert alert-success">';
+                echo 'Huzzah! You can now sign in.';
+                echo '</div>';
+                unset($_SESSION["user_just_registered"]);
+            }
+        ?>
           <h5 class="mt-4 text-center">Sign in to your account</h5>
           <!-- Username -->
           <div class="mt-3">
@@ -43,12 +55,17 @@
 
           <div class="mt-4">
             <?php 
-                if ($_SESSION['INVALID_LOGIN']) {
-                    echo 'invalid login';
-                    unset($_SESSION['INVALID_LOGIN']);
+                // print_r($_SESSION);
+                if (isset($_SESSION['invalid_login'])) {
+                    echo <<<EOF
+                        <div class="alert alert-danger">
+                            Invalid username or password.
+                        </div>
+                    EOF;
+                    unset($_SESSION['invalid_login']);
                 }
             ?>
-            <button class="btn btn-primary" type="submit" style="width: 232px">Submit</button>
+            <button class="btn btn-primary mt-2" type="submit" style="width: 232px">Submit</button>
           </div>
 
           <div class="my-3 text-center">

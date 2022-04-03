@@ -1,5 +1,7 @@
 <?php
 
+session_start();
+
 $dsn = 'mysql:host=localhost;dbname=haightk1_hbdb';
 $username = 'haightk1_administrator';
 $password = 'NYE99xyzCPA';
@@ -23,8 +25,10 @@ $confirm  = $_POST['password-confirm'];
 
 $hash = password_hash($password, PASSWORD_DEFAULT);
 
-$statement1 = "INSERT INTO users (first_name, last_name, email_address, phone_number, username, password)
-VALUES (:first_name, :last_name, :email, :phone_number, :username, :password)";
+$statement1 = "INSERT INTO users 
+(first_name, last_name, email_address, phone_number, username, password)
+VALUES 
+(:first_name, :last_name, :email, :phone_number, :username, :password)";
 
 $foo = $pdo->prepare($statement1);
 
@@ -36,25 +40,26 @@ $foo->execute(array(
     'username'     => $username,
     'password'     => $hash,
 ));
-$foo->fetch();
 
-    //$stmt = $db->prepare("SELECT balance FROM accounts WHERE account_id=?");
- // $stmt->execute(array($account_id));
-  //  $check = $stmt->fetch();
+if($foo){
+    $stmt = $pdo->prepare("SELECT user_id FROM users WHERE username=?");
+  $stmt->execute(array($username));
+    $row = $stmt->fetch();
+    
+     $acc = "INSERT INTO accounts (user_id, balance)
+VALUES (:id, :balance)";
+$foo = $pdo->prepare($acc);
 
-// $result = $pdo->query("SELECT user_id FROM users WHERE username=$username");
+$foo->execute(array(
+    'id'   => $row['user_id'],
+    'balance' => (int)0,
+));
+}
 
-// $user_id = $result->fetch();
+$_SESSION["user_just_registered"] = true;
 
-// $statement2 = "INSERT INTO accounts (user_id, balance) VALUES ($user_id, 0)";
-// $pdo->query($statement2);
+echo "<script>document.location.href='login.php';</script>";
 
 $pdo->close();
 
-// $URL="login.php";
-// include '<script>window.location.href = "login.php";</script>'
-// echo "<script type='text/javascript'>window.location.href='{$URL}';</script>";
-// echo '<META HTTP-EQUIV="refresh" content="0;URL=' . $URL . '">';
-        // $URL="login.php";
-        echo "<script type='text/javascript'>document.location.href='login.php';</script>";
-        echo "<META HTTP-EQUIV='refresh' content=\"0;URL='login.php'\">";
+?>
