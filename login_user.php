@@ -1,32 +1,32 @@
 <?php
+
 session_start();
 
+include 'scripts/db.php';
 
-$dsn = 'mysql:host=localhost;dbname=haightk1_hbdb';
-$username = 'haightk1_administrator';
-$password = 'NYE99xyzCPA';
-
-$db = new PDO($dsn, $username, $password);
+$pdo = get_database_connection();
 
 $username = $_POST['username'];
 $password = $_POST['password'];
 
-  $stmt = $db->prepare("SELECT user_id, password FROM users WHERE username=?");
-  $stmt->execute(array($username)); 
-$user = $stmt->fetch();
-if ($user) {
-    if (password_verify($password, $user['password'])){
-        $_SESSION["userID"] = $user['user_id'];
-        echo ("<script>document.location.href='account.php';</script>");
-        exit(0);
-    }
-} 
+$statement = $pdo->prepare('SELECT user_id, password FROM users WHERE username=?');
+$statement->execute(array($username)); 
 
-$_SESSION["invalid_login"] = "Incorrect username or password";
-// print_r($_SESSION);
+$row = $statement->fetch();
+$stored_password = $row['password'];
 
-echo "<script>document.location.href='login.php';</script>";
+if (password_verify($password, $stored_password)) {
+    $_SESSION['user_id'] = $row['user_id'];
+    // Redirect the user to their account.
+    header('Location: account.php');
+    exit(0);
+}
 
+// Close database connection.
+$pdo = null;
 
-$db->close();
-?>
+// This session variable will be used to display an error message.
+$_SESSION['invalid_login'] = true;
+
+// Redirect user back to login page if login attempt was invalid.
+header('Location: login.php');

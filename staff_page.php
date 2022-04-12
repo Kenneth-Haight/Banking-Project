@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <!--<link rel="icon" href="https://lolfilter.com/files/thumbnails/1372583921912664.png">-->
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+        <script src="js/scripts.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest" crossorigin="anonymous"></script>
+        <script src="js/datatables-simple-demo.js"></script>
+        
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -12,6 +19,7 @@
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
     </head>
     <body class="sb-nav-fixed">
+    <?php include 'includes/shapes.php'; ?>
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
             <!-- Navbar Brand-->
             <a class="navbar-brand ps-3" href="staff_page.php">Haight Banking</a>
@@ -20,8 +28,8 @@
             <!-- Navbar Search-->
             <form class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0">
                 <div class="input-group">
-                    <input class="form-control" type="text" placeholder="Search for..." aria-label="Search for..." aria-describedby="btnNavbarSearch" />
-                    <button class="btn btn-primary" id="btnNavbarSearch" type="button"><i class="fas fa-search"></i></button>
+                    <!--<input class="form-control" type="text" placeholder="Search for..." aria-label="Search for..." aria-describedby="btnNavbarSearch" />-->
+                    <!--<button class="btn btn-primary" id="btnNavbarSearch" type="button"><i class="fas fa-search"></i></button>-->
                 </div>
             </form>
             <!-- Navbar-->
@@ -91,20 +99,6 @@
                     <div class="container-fluid px-4">
                     <!--- Database for Account Details --->
 
-
-                 <?php
-//                 $user_id = '1';
-                
-//                 $dsn = 'mysql:host=localhost;dbname=haightk1_hbdb';
-//                 	$username = 'haightk1_administrator';
-//                 	$password = 'NYE99xyzCPA';
-                
-//                   $db = new PDO($dsn, $username,);
-    
-//   ?>
-
-
-
                         <h1 class="mt-4">Staff Dashboard</h1>
                         <ol class="breadcrumb mb-4">
                             <li class="breadcrumb-item"><a href="staff_page.php">Dashboard</a></li>
@@ -126,55 +120,75 @@
                                 <table id="datatablesSimple">
                                     <thead>
                                         <tr>
+                                            <th>userID</th>
                                             <th>Name</th>
-                                            <th>Account number</th>
+                                            <th>Username</th>
+                                            <th>Email Address</th>
+                                            <th>Phone Number</th>
                                             <th>Balance</th>
-                                            <th>Type</th>
-                                            <th>Info</th>
-                                            <th>Last-Login</th>
+                                            <th>Edit</th>
+                                            
+                                            
                                         </tr>
                                     </thead>
 
                                     <tbody>
-                                        <tr>
-                                            <td>Baraa Nassar</td>
-                                            <td>0123456789</td>
-                                            <td>$900,00</td>
-                                            <td>Checking</td>
-                                            <td>12345</td>
-                                            <td>4/3/2022</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Alex Brown </td>
-                                            <td>0123456789</td>
-                                            <td>$900,00</td>
-                                            <td>Checking</td>
-                                            <td>12345</td>
-                                            <td>4/3/2022</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Noah Mad</td>
-                                            <td>0123456789</td>
-                                            <td>$900,00</td>
-                                            <td>Checking</td>
-                                            <td>12345</td>
-                                            <td>4/3/2022</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Ahmad Musa</td>
-                                            <td>0123456789</td>
-                                            <td>$900,00</td>
-                                            <td>Checking</td>
-                                            <td>12345</td>
-                                            <td>4/3/2022</td>
-                                        </tr>
+
+                <?php
+                $user_id = '1';
+                
+                include 'scripts/db.php';
+                $db = get_database_connection();
+                // echo "Connected successfully";
+                
+                // $stmt = $db->prepare("SELECT * FROM accounts ORDER BY account_id");
+                  $stmt = $db->prepare("SELECT * FROM users LEFT JOIN accounts ON users.user_id = accounts.user_id ");
+                //   echo "$users[firstname]";
+                  $stmt->execute(array($user_id));
+                  $num_results = $stmt->rowCount();
+                  
+                  
+                  for ($i=0; $i <$num_results; $i++) {
+                         
+                         $user_id = $user[user_id];
+                         $user = $stmt->fetch();
+                	    
+                	    echo "<tr>
+                                            <td>$user[user_id]</td> 
+                                            <td>$user[first_name] $user[last_name]</td>
+                                            <td>$user[username]</td>
+                                            <td>$user[email_address]</td>
+                                            <td>$user[phone_number]</td>
+                                            <td>$user[balance]</td>";
+                                            if($user['approved']==0){
+                                                
+                                            }
+                                        "</tr>";
                                         
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
+                                            
+                        
+                        // $stmt = $db->prepare("SELECT * FROM accounts where user_id = ?");
+                	    
+                	   // echo "<br>";
+  }   
+// echo "";
+$db->close();
+  $result->free();
+
+                ?>
+                  
+
+   
+                                        
+                        
+                        
+                </tbody>
+                </table>
+                </div>
+                </div>
+                </div>
                 </main>
+                
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
@@ -189,9 +203,6 @@
                 </footer>
             </div>
         </div>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
-        <script src="js/scripts.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest" crossorigin="anonymous"></script>
-        <script src="js/datatables-simple-demo.js"></script>
+ 
     </body>
 </html>

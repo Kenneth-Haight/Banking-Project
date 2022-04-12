@@ -1,43 +1,33 @@
 <?php
-/*
-Login for admin 
-userNAme: man
-pass: bread
-*/
 
-if(isset($_POST['username']) || isset($_POST['password'])){
-    $dsn = 'mysql:host=localhost;dbname=haightk1_hbdb';
-	$username = 'haightk1_administrator';
-	$password = 'NYE99xyzCPA';
+session_start();
 
-  $db = new PDO($dsn, $username, $password);
+include 'scripts/db.php';
+$pdo = get_database_connection();
 
-$inputted_username = $_POST['username'];
-$inputted_password = $_POST['password'];
-// $hash = password_hash($inputted_password, PASSWORD_DEFAULT);
-// echo $hash;
+$username = $_POST['username'];
+$password = $_POST['password'];
 
-// exit();
-  $stmt = $db->prepare("SELECT password FROM staff WHERE username=?");
-  $stmt->execute(array($inputted_username)); 
-    $user = $stmt->fetch();
+$statement = $pdo->prepare('SELECT staff_id, password FROM staff WHERE username=?');
+$statement->execute(array($username)); 
 
-if ($user) {
-    if (password_verify($inputted_password, $user['password'])){
-        $URL="staff_page.php";
-      echo "<script type='text/javascript'>document.location.href='{$URL}';</script>";
-      echo '<META HTTP-EQUIV="refresh" content="0;URL=' . $URL . '">';
-    }
-    else {
-    echo "Invalid password. Please try again.";
-} 
-} else {
-    echo "Invalid user. Please try again.";
-} 
+$row = $statement->fetch();
+$stored_password = $row['password'];
+
+if (password_verify($password, $stored_password)) {
+    
+    $_SESSION['staff_id'] = $row['staff_id'];
+    
+    // Redirect the user to their account.
+    echo "<script>document.location.href='staff_page.php';</script>";
+    exit(0);
 }
 
-//   $result->free();
-  $db->close();
-  
-  
-?>
+// Close database connection.
+$pdo = null;
+
+// This session variable will be used to display an error message.
+$_SESSION["invalid_login"] = true;
+
+// Redirect back to staff login page if login attempt was invalid.
+header('Location: staff_login.php');

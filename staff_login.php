@@ -1,3 +1,9 @@
+<?php
+
+session_start();
+
+?>
+
 <!doctype html>
 <html>
   <head>
@@ -5,7 +11,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Login - haight banking</title>
+    <title>Staff Login - haight banking</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
@@ -30,7 +36,7 @@
       </header>
       <div class="d-flex mt-1">
         <form class="px-4 mx-auto" action="staff_login_script.php" method="post">
-          <h5 class="mt-4 text-center">Sign in to Admin account</h5>
+          <h5 class="mt-4 text-center">Sign in to your staff account</h5>
           <!-- Username -->
           <div class="mt-3">
             <input class="form-control" type="text" name="username" placeholder="Username" required>
@@ -42,11 +48,18 @@
           </div>
 
           <div class="mt-4">
-            <button class="btn btn-primary" type="submit" style="width: 232px">Submit</button>
+            <?php 
+                // Display a message if login isn't valid.
+                if (isset($_SESSION['invalid_login'])) {
+                    echo '<div class="alert alert-danger">Invalid username or password.</div>';
+                    unset($_SESSION['invalid_login']);
+                }
+            ?>
+            <button class="btn btn-success mt-2" type="submit" style="width: 232px">Submit</button>
           </div>
           
-          <div class="my-3 text-center">
-            <span><a href="index.php">Return Home</a></span>
+          <div class="mt-5 text-center">
+            <a class="btn px-2 py-1 rounded" href="index.php" style="background-color:#e4edfb; color: #174ea6; width: 100px">Back</a>
           </div>
 
         </form>
