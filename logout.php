@@ -7,5 +7,5 @@ if (isset($_SESSION)) {
     session_destroy();
 }
 
-// Redirect user back to the login page.
-header('Location: login.php');
+// Redirect user back to the home page.
+header('Location: index.php');

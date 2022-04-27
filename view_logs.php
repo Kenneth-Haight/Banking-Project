@@ -27,13 +27,11 @@ $staff_id = $_SESSION["staff_id"];
         <title>Tables - SB Admin</title>
         <link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" />
         <link href="css/styles.css" rel="stylesheet" />
-    
-        
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
     </head>
     <body class="sb-nav-fixed">
     <?php include 'includes/shapes.php'; ?>
-        <nav class="sb-topnav navbar navbar-expand navbar-dark bg-primary">
+        <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
             <!-- Navbar Brand-->
             <a class="navbar-brand ps-3" href="staff_page.php">Haight Banking</a>
             <!-- Sidebar Toggle-->
@@ -78,9 +76,9 @@ $staff_id = $_SESSION["staff_id"];
                             </a>
                             <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav">
-                                    <a class="nav-link" href="add_account.php">Add a new account</a>
+                                    <a class="nav-link" href="layout-static.html">Add a new account</a>
                                     <a class="nav-link" href="layout-sidenav-light.html">Deposit</a>
-                                    <a class="nav-link" href="staff_transfer.php">Transfer</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Transfer</a>
                                 </nav>
                             </div>
                             <div class="collapse" id="collapsePages" aria-labelledby="headingTwo" data-bs-parent="#sidenavAccordion">
@@ -134,15 +132,9 @@ $staff_id = $_SESSION["staff_id"];
                                 <table id="datatablesSimple">
                                     <thead>
                                         <tr>
-                                            <th>userID</th>
-                                            <th>Name</th>
-                                            <th>Username</th>
-                                            <th>Email Address</th>
-                                            <th>Phone Number</th>
-                                            <th>Balance</th>
-                                            <th>View</th>
-                                            
-                                            
+                                            <th>Log ID</th>
+                                            <th>Staff ID</th>
+                                            <th>Description</th>
                                         </tr>
                                     </thead>
 
@@ -156,9 +148,9 @@ $staff_id = $_SESSION["staff_id"];
                 // echo "Connected successfully";
                 
                 // $stmt = $db->prepare("SELECT * FROM accounts ORDER BY account_id");
-                  $stmt = $db->prepare("SELECT * FROM users LEFT JOIN accounts ON users.user_id = accounts.user_id ");
+                  $stmt = $db->prepare("SELECT * FROM staff_log");
                 //   echo "$users[firstname]";
-                  $stmt->execute(array($user_id));
+                  $stmt->execute();
                   $num_results = $stmt->rowCount();
                   
                   
@@ -168,19 +160,10 @@ $staff_id = $_SESSION["staff_id"];
                          $user = $stmt->fetch();
                 	    
                 	    echo "<tr>
-                                            <td>$user[user_id]</td> 
-                                            <td>$user[first_name] $user[last_name]</td>
-                                            <td>$user[username]</td>
-                                            <td>$user[email_address]</td>
-                                            <td>$user[phone_number]</td>
-                                            <td>$user[balance]</td>
-                                            <td><a href='edit.php'>Edit</a></td>
-                                            
+                                            <td>$user[log_ID]</td> 
+                                            <td>$user[staff_ID]</td>
+                                            <td>$user[logDesc]</td>
                                             ";
-                                            
-                                            if($user['approved']==0){
-                                                
-                                            }
                                         "</tr>";
                                         
                                             

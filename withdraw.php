@@ -1,4 +1,5 @@
 <?php
+
 session_start();
 
 if (!isset($_SESSION['user_id'])) {
@@ -6,52 +7,44 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
-  if(isset($_POST['withdraw']))      {    
+$account_id = $_GET['id'];
+
+if (isset($_POST['withdraw'])) {    
+    
     include 'scripts/db.php';
     $db = get_database_connection();
   
-  $input = $_POST['withdraw'];
-  $amount = floatval($input);
-  
-  $_SESSION['withdraw'] = $input;
-  
-      // Input validation
+    $input = $_POST['withdraw'];
     
-    $is_input_numeric = is_numeric($input);
-    $is_amount_positive = ($amount > 0);
-    
-    // Amounts should only have 2 decimal places max.
-    $valid_decimals = (round($amount, 2) === $amount);
+    // Repopulate amount if there are errors
+    $_SESSION['withdraw'] = $input;
 
-    $is_input_valid = ($is_input_numeric && $is_amount_positive && $valid_decimals);
-
-    if (!$is_input_valid) {
+    if (!isAmountInputValid($input)) {
         $_SESSION['invalid_withdrawal_amount'] = true;
-        header('Location: withdraw.php');
+        header("Location: withdraw.php?id=$account_id");
         exit(0);
     }
+    $amount = floatval($input);
 
-    
-
-  $account_id = $_SESSION["account_id"];
-    $timestamp = date("Y-m-d H:i:s");
-  
-  $stmt = $db->prepare("SELECT balance FROM accounts WHERE account_id=?");
-  $stmt->execute(array($account_id));
+    // $account_id = $_POST["Account"];
+    // $timestamp = date("Y-m-d H:i:s");
+   
+    $stmt = $db->prepare("SELECT balance FROM accounts WHERE account_id=?");
+    $stmt->execute(array($account_id));
     $user = $stmt->fetch();
-  $totalAmount = $user['balance'] - $amount;
+    $totalAmount = $user['balance'] - $amount;
   
-  if ($totalAmount < 0) {
-    $_SESSION['will_overdraft'] = true;
-    header('Location: withdraw.php');
-    exit(1);
-  }
+    if ($totalAmount < 0) {
+        $_SESSION['will_overdraft'] = true;
+        header("Location: withdraw.php?id=$account_id");
+        exit(1);
+    }
   
-if ($user) {
+  if ($user) {
     if($amount <= 0){
         echo "Error, input cannot be a negative amount or zero, please try again";
     }
-        else if($totalAmount < 0){
+        else if ($totalAmount < 0){
             echo "Sorry you cannot overdraft.";
         }else{
         $update = "UPDATE accounts SET balance = '$totalAmount' WHERE account_id = $account_id";
@@ -60,10 +53,10 @@ if ($user) {
     $stmt = $db->prepare("SELECT balance FROM accounts WHERE account_id=?");
   $stmt->execute(array($account_id));
     $check = $stmt->fetch();
-    // echo "Current Balance: " . $check['balance'];
     
-    $transaction = "INSERT INTO account_transactions (account_id, time_made, description, amount, updated_balance)
-VALUES (:id, :time, :desc, :amount, :balance)";
+    $transaction = "INSERT INTO account_transactions 
+    (account_id, time_made, description, amount, updated_balance)
+    VALUES (:id, CURRENT_TIMESTAMP, :desc, :amount, :balance)";
 
 $desc = 'Withdrawal of $' . number_format($amount, 2, ".", ",");;
 
@@ -71,13 +64,13 @@ $foo = $db->prepare($transaction);
 
 $foo->execute(array(
     'id'   => $account_id,
-    'time'   => $timestamp,
+    // 'time'   => $timestamp,
     'desc'    => $desc,
     'amount'        => -1*$amount,
     'balance' => $check['balance'],
 ));
   $db = null;
-  header('Location: account.php');
+  header("Location: account.php?id=$account_id");
         }
     } else {
     echo "Error, unable to connect to database.";
@@ -111,12 +104,12 @@ $foo->execute(array(
         </header>
         <nav class="py-2 pb-1 d-flex flex-row">
             <div class="flex-grow-1">
-                <a class="mx-4" href="account.php">Home</a>
-                <a class="mx-4" href="deposit.php">Deposit</a>
-                <a class="mx-4 fw-bold" href="withdraw.php">Withdraw</a>
-                <a class="mx-4" href="transfer.php">Transfer</a>
-                <a class="mx-4" href="statement.php">Statement</a>
-                <a class="mx-4" href="edit.php">Edit User</a>
+                <a class="mx-4 link-secondary" href="profile.php">Back to Profile</a>
+                <a class="mx-4" href=<?= "account.php?id=$account_id" ?>>Home</a>
+                <a class="mx-4" href=<?= "deposit.php?id=$account_id" ?>>Deposit</a>
+                <a class="mx-4 fw-bold" href=<?= "withdraw.php?id=$account_id" ?>>Withdraw</a>
+                <a class="mx-4" href=<?= "transfer.php?id=$account_id" ?>>Transfer</a>
+                <a class="mx-4" href=<?= "statement.php?id=$account_id" ?>>Statement</a>
             </div>
             <div>
                 <a href="logout.php" class="btn btn-secondary mx-2" id="sign-out-btn">Sign out</a>
@@ -128,23 +121,7 @@ $foo->execute(array(
             <hr>
                 <form method="post" class="mt-4">
                     <div class="row mb-4">
-                   <form method="post" class="mt-4">
                     <div class="row mb-4">
-                        <label for="Account">Choose a bank account #:</label>
-<select name="Account" id="Account">
-      <?php
-    include 'scripts/db.php';
-    $db = get_database_connection();
-    $stmt = $db->prepare("SELECT account_id FROM accounts WHERE user_id=? AND approved = 1");
-    $stmt->execute(array($_SESSION['user_id']));
-    $num_accounts = $stmt->rowCount();
-    for($i = 0; $i < $num_accounts; $i++){
-    $check = $stmt->fetch();
-    $account_id = $check['account_id'];
-    echo "<option value='$account_id'>$account_id</option>";
-    }
-    ?>
-</select>
                         <label class="col-sm-3 col-form-label fw-bold" style="font-size: 16px" for="deposit">Amount</label>
                         <div class="col-sm-9">
                             <input class="form-control" name = "withdraw" type="double" maxlength="15" required placeholder="Enter an amount to withdraw"

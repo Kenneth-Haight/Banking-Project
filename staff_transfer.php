@@ -27,8 +27,6 @@ $staff_id = $_SESSION["staff_id"];
         <title>Tables - SB Admin</title>
         <link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" />
         <link href="css/styles.css" rel="stylesheet" />
-    
-        
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
     </head>
     <body class="sb-nav-fixed">
@@ -78,7 +76,7 @@ $staff_id = $_SESSION["staff_id"];
                             </a>
                             <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav">
-                                    <a class="nav-link" href="add_account.php">Add a new account</a>
+                                    <a class="nav-link" href="layout-static.html">Add a new account</a>
                                     <a class="nav-link" href="layout-sidenav-light.html">Deposit</a>
                                     <a class="nav-link" href="staff_transfer.php">Transfer</a>
                                 </nav>
@@ -114,16 +112,24 @@ $staff_id = $_SESSION["staff_id"];
                     <div class="container-fluid px-4">
                     <!--- Database for Account Details --->
 
-                        <h1 class="mt-4">Staff Dashboard</h1>
+                        <h1 class="mt-4">Staff Transfer</h1>
                         <ol class="breadcrumb mb-4">
                             <li class="breadcrumb-item"><a href="staff_page.php">Dashboard</a></li>
                             <li class="breadcrumb-item active">Admin</li>
                         </ol>
                         <div class="card mb-4">
                             <div class="card-body">
-                                Please use this screen to add/edit the customers info. 
+                                Please use this screen to transfer funds between the provided customer accounts. 
                                 <!--<a target="_blank" href="https://datatables.net/">official DataTables documentation</a>-->
                             </div>
+                        </div>
+                        <div class = "card mb-4">
+                            <div "card-body">
+                        <form method='post' style="text-align: center; ">
+                            <label>Enter user ID: </label>
+                            <input type="text" id="User" name="User"><br>
+                        </form>
+                        </div>
                         </div>
                         <div class="card mb-4">
                             <div class="card-header">
@@ -140,23 +146,42 @@ $staff_id = $_SESSION["staff_id"];
                                             <th>Email Address</th>
                                             <th>Phone Number</th>
                                             <th>Balance</th>
-                                            <th>View</th>
-                                            
-                                            
                                         </tr>
                                     </thead>
 
                                     <tbody>
 
                 <?php
-                $user_id = '1';
+                $user_id = $_POST['User'];
+                if(isset($user_id)){
+                    
+                   echo '<div class = "card mb-4">
+                            <div "card-body">
+                        <form method="post" style="text-align: center; " action= "staff_transfer_script.php">
+                        <label class="col-sm-5 col-form-label fw-bold" style="font-size: 16px" for="first">First User Account</label>
+                        <div class="col-sm-7">
+                        <input class="form-control" name = "first" type="int" maxlength="20" required placeholder="Enter first ID">
+                        
+                        <label class="col-sm-5 col-form-label fw-bold" style="font-size: 16px" for="second">Second User Account</label>
+                        <div class="col-sm-7">
+                        <input class="form-control" name = "second" type="int" maxlength="20" required placeholder="Enter second ID">
+                        
+                        <label class="col-sm-5 col-form-label fw-bold" style="font-size: 16px" for="transfer">Amount</label>
+                        <div class="col-sm-7">
+                        <input class="form-control" name = "transfer" type="double" maxlength="20" required placeholder="Enter an amount to transfer">
+                                            <div class="row mb-2 mt-2 mx-auto" style="width: 263px;">
+                        <button class="btn btn-primary" style="" type="submit">Submit</button>
+                    </div>
+                        </form>
+                        </div>
+                        </div>';
                 
                 include 'scripts/db.php';
                 $db = get_database_connection();
                 // echo "Connected successfully";
                 
                 // $stmt = $db->prepare("SELECT * FROM accounts ORDER BY account_id");
-                  $stmt = $db->prepare("SELECT * FROM users LEFT JOIN accounts ON users.user_id = accounts.user_id ");
+                  $stmt = $db->prepare("SELECT * FROM users LEFT JOIN accounts ON users.user_id = accounts.user_id WHERE users.user_id = ?");
                 //   echo "$users[firstname]";
                   $stmt->execute(array($user_id));
                   $num_results = $stmt->rowCount();
@@ -174,7 +199,6 @@ $staff_id = $_SESSION["staff_id"];
                                             <td>$user[email_address]</td>
                                             <td>$user[phone_number]</td>
                                             <td>$user[balance]</td>
-                                            <td><a href='edit.php'>Edit</a></td>
                                             
                                             ";
                                             
@@ -190,9 +214,7 @@ $staff_id = $_SESSION["staff_id"];
                 	   // echo "<br>";
   }   
 // echo "";
-$db->close();
-  $result->free();
-
+                }
                 ?>
                 
                 </tbody>

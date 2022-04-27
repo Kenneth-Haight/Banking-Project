@@ -1,4 +1,5 @@
 <?php
+
 session_start();
 
 if (!isset($_SESSION['user_id'])) {
@@ -6,35 +7,28 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
-if (isset($_POST['transfer']) && isset($_POST['recipient'])) {    
-    include 'scripts/db.php';
+$account_id = $_GET['id'];
+
+if (isset($_POST['transfer']) && isset($_POST['Account'])) {    
   
+    include 'scripts/db.php';
     $db = get_database_connection();
   
     $input = $_POST['transfer'];
-    $amount = floatval($input);
 
-    $_SESSION['recipient'] = $_POST['recipient'];
+    $_SESSION['recipient'] = $_POST['Account'];
     $_SESSION['transfer'] = $_POST['transfer'];
 
-    // Input validation
-    
-    $is_input_numeric = is_numeric($input);
-    $is_amount_positive = ($amount > 0);
-    
-    // Amounts should only have 2 decimal places max.
-    $valid_decimals = (round($amount, 2) === $amount);
-
-    $is_input_valid = ($is_input_numeric && $is_amount_positive && $valid_decimals);
-    if (!$is_input_valid) {
+    if (!isAmountInputValid($input)) {
         $_SESSION['invalid_transfer_amount'] = true;
         header('Location: transfer.php');
-        exit(0);
+        exit;
     }
+    $amount = floatval($input);
 
-    $account_id = $_SESSION["account_id"];
+    // $account_id = $_SESSION["account_id"];
   
-    $transferTo = $_POST['recipient'];
+    $transferTo = $_POST['Account'];
     
     if ($account_id == $transferTo) {
         $_SESSION['self-transfer'] = true;
@@ -42,92 +36,93 @@ if (isset($_POST['transfer']) && isset($_POST['recipient'])) {
         exit();
     }
     
-    $recipient_account_id = $_POST['recipient'];
+    $recipient_account_id = $_POST['Account'];
   
-  // Get current user's account id.
-  $stmt = $db->prepare("SELECT user_id FROM users WHERE user_id=?");
-  $stmt->execute(array($account_id));
-  $user1 = $stmt->fetch();
+    // Get current user's account id.
+    $stmt = $db->prepare("SELECT user_id FROM users WHERE user_id=?");
+    $stmt->execute(array($account_id));
+    $user1 = $stmt->fetch();
   
-  // Get recipient's account id.
-  $stmt2 = $db->prepare("SELECT user_id FROM accounts WHERE account_id=?");
-//   $stmt2 = $db->prepare("SELECT * FROM accounts WHERE account_id=?");
-  $stmt2->execute(array($recipient_account_id));
-  $user2 = $stmt2->fetch();
+    // Get recipient's account id.
+    $stmt2 = $db->prepare("SELECT user_id FROM accounts WHERE account_id=?");
+    //   $stmt2 = $db->prepare("SELECT * FROM accounts WHERE account_id=?");
+    $stmt2->execute(array($recipient_account_id));
+    $user2 = $stmt2->fetch();
   
-  $recipient_does_not_exist = ($stmt2->rowCount() === 0);
+    $recipient_does_not_exist = ($stmt2->rowCount() === 0);
   
-  if ($recipient_does_not_exist) {
-    $_SESSION['invalid_recipient'] = true;
-    header('Location: transfer.php');
-    exit;
-  }
-  
-  $stmt = $db->prepare("SELECT balance FROM accounts WHERE account_id=?");
-  $stmt->execute(array($account_id));
-    $user = $stmt->fetch();
-  $totalAmount = $user['balance'] - $amount;
-  
-  if ($totalAmount < 0) {
-    $_SESSION['will_overdraft'] = true;
-    header('Location: transfer.php');
-    exit(1);
-  }
-  
+    if ($recipient_does_not_exist) {
+        $_SESSION['invalid_recipient'] = true;
+        header('Location: transfer.php');
+        exit;
+    }
 
-    // echo "success";
-  $bal = $db->prepare("SELECT balance FROM accounts WHERE account_id=?");
-  $bal->execute(array($account_id));
+    // 
+    $statement = $db->prepare("SELECT balance FROM accounts WHERE account_id = ?");
+    $statement->execute(array($account_id));
+    $user = $statement->fetch();
+    
+    $totalAmount = $user['balance'] - $amount;
+  
+    if ($totalAmount < 0) {
+        $_SESSION['will_overdraft'] = true;
+        header("Location: transfer.php?id=$account_id");
+        exit;
+    }
+  
+    $bal = $db->prepare("SELECT balance FROM accounts WHERE account_id = ?");
+    $bal->execute(array($account_id));
     $temp = $bal->fetch();
-        // $totalAmount;
+    
     $update1 = "UPDATE accounts SET balance = '$totalAmount' WHERE account_id = $account_id";
-  $stmt1 = $db->query($update1);
-  //Add transaction history to user 1
-   $transaction = "INSERT INTO account_transactions (account_id, time_made, description, amount, updated_balance)
-VALUES (:id, :time, :desc, :amount, :balance)";
+    $stmt1 = $db->query($update1);
+    
+    // Add transaction history to user 1
+    $transaction = "INSERT INTO account_transactions 
+    (account_id, time_made, description, amount, updated_balance)
+    VALUES (:id, CURRENT_TIMESTAMP, :desc, :amount, :balance)";
 
-// $desc = 'Transfer of $' .$amount. " to " .$transferTo;
-$desc = "Transfer of " . "$" . number_format($amount, 2, ".", ",") . " sent to $transferTo";
+    // $desc = 'Transfer of $' .$amount. " to " .$transferTo;
+    $desc = "Transfer of " . "$" . number_format($amount, 2, ".", ",") . " sent to account #$transferTo";
 
-$foo = $db->prepare($transaction);
+    $foo = $db->prepare($transaction);
 
-$timestamp = date("Y-m-d H:i:s");
+    $timestamp = date("Y-m-d H:i:s");
 
-$foo->execute(array(
-    'id'   => $account_id,
-    'time'   => $timestamp,
-    'desc'    => $desc,
-    'amount'        => -1*$amount,
-    'balance' => $totalAmount,
-));
+    $foo->execute(array(
+        'id'   => $account_id,
+        'desc'    => $desc,
+        'amount'        => -1*$amount,
+        'balance' => $totalAmount,
+    ));
   
-  $bal2 = $db->prepare("SELECT balance FROM accounts WHERE account_id=?");
-  $bal2->execute(array($transferTo));
+    $bal2 = $db->prepare("SELECT balance FROM accounts WHERE account_id=?");
+    $bal2->execute(array($transferTo));
     $temp2 = $bal2->fetch();
-  $totalAmount = $amount + $temp2['balance'];
-  $update2 = "UPDATE accounts SET balance = '$totalAmount' WHERE account_id = $transferTo";
-  $stmt2 = $db->query($update2);
-  //Add transaction history to user 2
-     $transaction = "INSERT INTO account_transactions (account_id, time_made, description, amount, updated_balance)
-VALUES (:id, :time, :desc, :amount, :balance)";
+    $totalAmount = $amount + $temp2['balance'];
+    $update2 = "UPDATE accounts SET balance = '$totalAmount' WHERE account_id = $transferTo";
+    $stmt2 = $db->query($update2);
+    
+    // Add transaction history to user 2
+    $transaction = "INSERT INTO account_transactions 
+    (account_id, time_made, description, amount, updated_balance)
+    VALUES (:id, CURRENT_TIMESTAMP, :desc, :amount, :balance)";
 
-// $desc = "Transfer of " . $account_id. " gave you $" .$amount;
-$desc = "Transfer of " . "$" . number_format($amount, 2, ".", ",") . " received from $account_id";
+    // $desc = "Transfer of " . $account_id. " gave you $" .$amount;
+    $desc = "Transfer of " . "$" . number_format($amount, 2, ".", ",") . " received from account #$account_id";
 
-$foo = $db->prepare($transaction);
+    $foo = $db->prepare($transaction);
 
-$foo->execute(array(
-    'id'   => $transferTo,
-    'time'   => $timestamp,
-    'desc'    => $desc,
-    'amount'        => $amount,
-    'balance' => $totalAmount,
-));
+    $foo->execute(array(
+        'id'   => $transferTo,
+        'desc'    => $desc,
+        'amount'        => $amount,
+        'balance' => $totalAmount,
+    ));
   
-  header('Location: account.php');
-  $db = null;
+    $db = null;
+    header("Location: account.php?id=$account_id");
 }
-
 
 ?>
 
@@ -155,12 +150,12 @@ $foo->execute(array(
         </header>
         <nav class="py-2 pb-1 d-flex flex-row">
             <div class="flex-grow-1">
-                <a class="mx-4" href="account.php">Home</a>
-                <a class="mx-4" href="deposit.php">Deposit</a>
-                <a class="mx-4" href="withdraw.php">Withdraw</a>
-                <a class="mx-4 fw-bold" href="transfer.php">Transfer</a>
-                <a class="mx-4" href="statement.php">Statement</a>
-                <a class="mx-4" href="edit.php">Edit User</a>
+                <a class="mx-4 link-secondary" href="profile.php">Back to Profile</a>
+                <a class="mx-4" href=<?= "account.php?id=$account_id" ?>>Home</a>
+                <a class="mx-4" href=<?= "deposit.php?id=$account_id" ?>>Deposit</a>
+                <a class="mx-4" href=<?= "withdraw.php?id=$account_id" ?>>Withdraw</a>
+                <a class="mx-4 fw-bold" href=<?= "transfer.php?id=$account_id" ?>>Transfer</a>
+                <a class="mx-4" href=<?= "statement.php?id=$account_id" ?>>Statement</a>
             </div>
             <div>
                 <a href="logout.php" class="btn btn-secondary mx-2" id="sign-out-btn">Sign out</a>
@@ -172,12 +167,23 @@ $foo->execute(array(
                 <hr>
                 <form method="post" class="mt-4">
                     <div class="row mb-4">
-                        <label class="col-sm-5 col-form-label fw-bold" style="font-size: 16px" for="deposit">Recipient Account Number</label>
                         <div class="col-sm-7">
-                            <input class="form-control" name = "recipient" type="double" id="transfer" maxlength="20" 
-                            required 
-                            placeholder="Enter recepient's account number"
-                            value="<?php echo (isset($_SESSION['recipient']) ? $_SESSION['recipient'] : ""); unset($_SESSION['recipient']);  ?>">
+                             <label for="Account">Choose a recipient #:</label>
+<select name="Account" id="Account">
+      <?php
+    include 'scripts/db.php';
+    $db = get_database_connection();
+    $stmt = $db->prepare("SELECT account_id FROM accounts WHERE user_id=? AND approved = 1");
+    $stmt->execute(array($_SESSION['user_id']));
+    $num_accounts = $stmt->rowCount();
+    for($i = 0; $i < $num_accounts; $i++){
+        $check = $stmt->fetch();
+        $account_id = $check['account_id'];
+        if ($account_id == $_SESSION['account_id']) continue;
+        echo "<option value=$account_id>$account_id</option>";
+    }
+    ?>
+</select>
                         </div>
                     </div>
                     <div class="row mb-4">

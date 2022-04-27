@@ -6,6 +6,8 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
+$account_id = $_GET['id'];
+
 $user_id = $_SESSION["user_id"];
 
 include 'scripts/db.php';
@@ -21,8 +23,8 @@ $last  = $row['last_name'];
 $email = $row['email_address'];
 $phone = $row['phone_number'];
 
-$statement = $pdo->prepare("SELECT * FROM accounts WHERE user_id=?");
-$statement->execute(array($user_id));
+$statement = $pdo->prepare("SELECT * FROM accounts WHERE account_id=?");
+$statement->execute(array($account_id));
 $row = $statement->fetch();
 
 $account_id = $row['account_id'];
@@ -57,12 +59,12 @@ $pdo = null;
         </header>
         <nav class="py-2 pb-1 d-flex flex-row print-hidden">
             <div class="flex-grow-1">
-                <a class="mx-4" href="account.php">Home</a>
-                <a class="mx-4" href="deposit.php">Deposit</a>
-                <a class="mx-4" href="withdraw.php">Withdraw</a>
-                <a class="mx-4" href="transfer.php">Transfer</a>
-                <a class="mx-4 fw-bold" href="statement.php">Statement</a>
-                <a class="mx-4" href="edit.php">Edit User</a>
+                <a class="mx-4 link-secondary" href="profile.php">Back to Profile</a>
+                <a class="mx-4" href=<?= "account.php?id=$account_id" ?>>Home</a>
+                <a class="mx-4" href=<?= "deposit.php?id=$account_id" ?>>Deposit</a>
+                <a class="mx-4" href=<?= "withdraw.php?id=$account_id" ?>>Withdraw</a>
+                <a class="mx-4" href=<?= "transfer.php?id=$account_id" ?>>Transfer</a>
+                <a class="mx-4 fw-bold" href=<?= "statement.php?id=$account_id" ?>>Statement</a>
             </div>
             <div>
                 <a href="logout.php" class="btn btn-secondary mx-2" id="sign-out-btn">Sign out</a>

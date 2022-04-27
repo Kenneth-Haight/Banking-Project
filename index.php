@@ -1,8 +1,6 @@
 <!doctype html>
 <html>
 <head>
-    <!--<link rel="icon" href="https://lolfilter.com/files/thumbnails/1372583921912664.png">-->
-    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -42,6 +40,7 @@
         
         <div>
             <?php include 'includes/cat.php'; ?>
+            
         </div>
         <div style="height: 100px;"></div>
     </div>

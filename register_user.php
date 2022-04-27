@@ -15,7 +15,7 @@ $email    = $_POST['email-address'];
 $phone    = $_POST['phone-number'];
 
 // Sessions variables will be used to repopulate the form if
-// there's an error.
+// there's an error (excluding passwords).
 $_SESSION['first-name']    = $first;
 $_SESSION['last-name']     = $last;
 $_SESSION['username']      = $username;
@@ -92,19 +92,19 @@ $foo->execute(array(
     'password'      => $hash,
 ));
 
-if ($foo) {
-    $stmt = $pdo->prepare("SELECT user_id FROM users WHERE username=?");
-    $stmt->execute(array($username));
-    $row = $stmt->fetch();
+// if ($foo) {
+//     $stmt = $pdo->prepare("SELECT user_id FROM users WHERE username=?");
+//     $stmt->execute(array($username));
+//     $row = $stmt->fetch();
     
-    $acc = "INSERT INTO accounts (user_id, balance) VALUES (:id, :balance)";
-    $foo = $pdo->prepare($acc);
+//     $acc = "INSERT INTO accounts (user_id, balance) VALUES (:id, :balance)";
+//     $foo = $pdo->prepare($acc);
 
-    $foo->execute(array(
-        'id'   => $row['user_id'],
-        'balance' => (int)0,
-    ));
-}
+//     $foo->execute(array(
+//         'id'   => $row['user_id'],
+//         'balance' => (int)0,
+//     ));
+// }
 
 // Close database connection.
 $pdo = null;

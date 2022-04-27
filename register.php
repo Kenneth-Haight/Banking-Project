@@ -20,7 +20,7 @@ session_start();
         width: 400px;
       }
       input {
-        background-color: #f1f1f2 !important;
+        background-color: #f6f8f9 !important;
       }
       a {
         text-decoration: none;
@@ -84,17 +84,17 @@ session_start();
                 }
                 
                 if (isset($_SESSION['taken_username'])) {
-                    echo '<div class="alert alert-warning">Username is already taken.<br>Please enter another.</div>';
+                    echo '<div class="alert alert-danger">Username is already taken.<br>Please enter another.</div>';
                     unset($_SESSION['taken_username']);
                 }
                 
                 if (isset($_SESSION['taken_email'])) {
-                    echo '<div class="alert alert-warning">Email is already taken.<br>Please enter another.</div>';
+                    echo '<div class="alert alert-danger">Email is already taken.<br>Please enter another.</div>';
                     unset($_SESSION['taken_email']);
                 }
                 
                 if (isset($_SESSION['taken_phone_number'])) {
-                    echo '<div class="alert alert-warning">Phone number is already taken.<br>Please enter another.</div>';
+                    echo '<div class="alert alert-danger">Phone number is already taken.<br>Please enter another.</div>';
                     unset($_SESSION['taken_phone_number']);
                 }
             ?>
